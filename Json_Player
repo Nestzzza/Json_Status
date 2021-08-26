@@ -1,0 +1,35 @@
+{
+  "User Info":
+  [
+  {
+    "UserID":"0",
+    "FirstName":"Audy",
+    "SurName":"Kuy",
+    "SquadNumber":"18"
+  },
+    {
+    "UserID":"1",
+    "FirstName":"Artit",
+    "SurName":"Jim",
+    "SquadNumber":"10"
+  } , 
+    {
+    "UserID":"2",
+    "FirstName":"Ken",
+    "SurName":"Phoom",
+    "SquadNumber":"8"
+  } , 
+    {
+    "UserID":"3",
+    "FirstName":"Nest",
+    "SurName":"za",
+    "SquadNumber":"7"
+  } , 
+    {
+    "UserID":"4",
+    "FirstName":"Nutt",
+    "SurName":"Ping",
+    "SquadNumber":"4"
+  } 
+  ]
+}
